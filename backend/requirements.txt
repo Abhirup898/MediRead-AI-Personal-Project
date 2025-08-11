@@ -1,0 +1,38 @@
+# Flask and Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Image Processing
+Pillow==10.0.0
+opencv-python==4.8.0.76
+numpy==1.24.3
+
+# OCR Libraries
+pytesseract==0.3.10
+easyocr==1.7.0
+
+# AI/ML Libraries
+torch==2.0.1
+transformers==4.33.2
+spacy==3.6.1
+
+# Text Processing and NLP
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+
+# HTTP Requests
+requests==2.31.0
+
+# Logging and Utilities
+python-dateutil==2.8.2
+
+# Development and Testing
+pytest==7.4.2
+pytest-flask==1.2.0
+
+# Additional ML dependencies
+scikit-learn==1.3.0
+pandas==2.0.3
+
+# For better OCR preprocessing
+scikit-image==0.21.0
