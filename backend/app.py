@@ -11,6 +11,7 @@ import cv2
 import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter
 import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 import easyocr
 from flask import Flask, request, jsonify
 from flask_cors import CORS
