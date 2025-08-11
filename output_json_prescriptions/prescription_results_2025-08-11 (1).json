@@ -1,0 +1,18 @@
+{
+  "confidence_score": 0.4,
+  "extracted_text": "DOCTOR'S PRESCRIPTION Name Beenc Uee3 Age. 4< Sex. ID No. DR. ROy THOMAS MO (Med) DM (Neuro) MRCP (UK) FRCP (Edin) R Consultant Neurologist Padmavathy Medical Foundation Sasthamkotta No: 31219 H (Repece 1) lo 9 47 25 43 7 Amloda c 5 7 Ave s (0 Aicrale er 250 ~07 Lecalm PL $ 77 LoNezap 78  Cucred Fen-e et SR 500 I~0 ~ ) A 7` Gudtsm= 4o 1~ ~6 7_ Pan= Medical Officer P Date 24.7 1434 Keg: loso 4 LvT 10 20 2 Neuri eg. generation first Founde eam the ever mioadec Reg. was Beene CRepoce vane DOCTOR’S dav The locay ROY (eorge MRCI Age...",
+  "medicines": [
+    {
+      "confidence": 0.4,
+      "dosage": null,
+      "frequency": null,
+      "instructions": "",
+      "medicine_name": "Doctor'S",
+      "original_text": "DOCTOR'S PRESCRIPTION Name Beenc Uee3 Age. 4< Sex. ID No. DR. ROy THOMAS MO (Med) DM (Neuro) MRCP (UK) FRCP (Edin) R Consultant Neurologist Padmavathy Medical Foundation Sasthamkotta No: 31219 H (Repece 1) lo 9 47 25 43 7 Amloda c 5 7 Ave s (0 Aicrale er 250 ~07 Lecalm PL $ 77 LoNezap 78 Cucred Fen-e et SR 500 I~0 ~ ) A 7` Gudtsm= 4o 1~ ~6 7_ Pan= Medical Officer P Date 24.7 1434 Keg: loso 4 LvT 10 20 2 Neuri eg. generation first Founde eam the ever mioadec Reg. was Beene CRepoce vane DOCTOR’S dav The locay ROY (eorge MRCI Age...",
+      "validated": false
+    }
+  ],
+  "processed_at": "2025-08-12T00:56:42.445642",
+  "success": true,
+  "total_medicines": 1
+}

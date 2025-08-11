@@ -1,0 +1,18 @@
+{
+  "confidence_score": 0.5,
+  "extracted_text": "Td _ I). Gettinalk Morning Monday; Wednesuay Sundav Closed 4-00 t0 8-00 PM 'nt Call Clinic No: 92480 02500 /23222500 between 0l Swsh 'Colaax iat/) 6 NocbR IOclk Laspos Roord Gqar A Efiet (Goam N?4 N:xoc X(Sda T6 Laxt /Kcet 5 YA (5 Xd MDcDil  Foxfg Vecf = OPC OG 11 bA Laife Sd Cab. Not tpt logged cle. Sep accountLog Seinen vette alee COG. tev inTalkContributionsCreate heer Kizo",
+  "medicines": [
+    {
+      "confidence": 0.5,
+      "dosage": null,
+      "frequency": "Td",
+      "instructions": "",
+      "medicine_name": "Gettinalk",
+      "original_text": "Td _ I). Gettinalk Morning Monday; Wednesuay Sundav Closed 4-00 t0 8-00 PM 'nt Call Clinic No: 92480 02500 /23222500 between 0l Swsh 'Colaax iat/) 6 NocbR IOclk Laspos Roord Gqar A Efiet (Goam N?4 N:xoc X(Sda T6 Laxt /Kcet 5 YA (5 Xd MDcDil Foxfg Vecf = OPC OG 11 bA Laife Sd Cab. Not tpt logged cle. Sep accountLog Seinen vette alee COG. tev inTalkContributionsCreate heer Kizo",
+      "validated": false
+    }
+  ],
+  "processed_at": "2025-08-12T00:54:07.696476",
+  "success": true,
+  "total_medicines": 1
+}
